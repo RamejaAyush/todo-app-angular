@@ -1,1 +1,1 @@
-Angular ToDo App
+Todo app made with angular
