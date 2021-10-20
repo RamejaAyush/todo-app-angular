@@ -1,2 +1,2 @@
 Todo app made with angular
-made by Aditya, Harshitha
+made by Aditya, Harshitha, Ayush
